@@ -1,0 +1,10 @@
+neo4j>=5.5
+pandas>=2.0
+numpy
+scipy
+scikit-learn
+networkx
+matplotlib
+tqdm
+ipykernel
+jupyter
